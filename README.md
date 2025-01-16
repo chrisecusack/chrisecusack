@@ -11,7 +11,10 @@ Hello. My name is **Chris Cusack**. I am an Instructor, Applications Architect, 
 <a href="https://twitter.com/ChrisCusack" target="blank"><img align="center" src="media/twitter.svg" alt="" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/christophercusack/" target="blank"><img align="center" src="media/linkedin.svg" alt="" height="50" width="50" /></a>
 <a href="https://www.instagram.com/chrisecusack/" target="blank"><img align="center" src="media/instagram.svg" alt="" height="50" width="50" /></a>
+<a href="https://christopherecusack.github.io/">Me</a>
 </p>
+
+
 
 ### <h1 align="center" id="heading">Tech Stack</h1>
 
