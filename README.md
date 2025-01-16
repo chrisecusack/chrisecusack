@@ -90,6 +90,4 @@ Hello. My name is **Chris Cusack**. I am an Instructor, Applications Architect, 
 <div align="center">
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisecusack&count_private=true&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=chrisecusack&theme=dark)](https://git.io/streak-stats)
-
 </div>
